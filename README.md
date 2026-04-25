@@ -29,6 +29,11 @@ This project demonstrates installation and configuration of Internet Information
 
 ---
 
+## Virtual Machine Configuration
+![VMware Configuration](screenshots/vmware-workstation-config.png)
+
+---
+
 ## Configuration Steps
 
 ### Install IIS
